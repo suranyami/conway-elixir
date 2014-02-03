@@ -1,4 +1,25 @@
+# Elixir stuff
 /_build
 /deps
 erl_crash.dump
 *.ez
+
+# Ruby stuff
+*.gem
+*.rbc
+.bundle
+.config
+coverage
+InstalledFiles
+lib/bundler/man
+pkg
+rdoc
+spec/reports
+test/tmp
+test/version_tmp
+tmp
+
+# YARD artifacts
+.yardoc
+_yardoc
+doc/
